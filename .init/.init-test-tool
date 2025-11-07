@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/music-stream-platform-184185-184194/spotify_web_frontend"
+}
